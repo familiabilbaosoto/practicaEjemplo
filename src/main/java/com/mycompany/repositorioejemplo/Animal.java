@@ -16,6 +16,15 @@ public class Animal {
         this.nombre = nombre;
         this.apellido = apellido;
     }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+    
     
     
     
